@@ -28,9 +28,9 @@ The dataset is processed and analyzed using Python and SQL tools to uncover patt
 
 | Tool / Technology                     | Purpose                                     |
 | ------------------------------------- | ------------------------------------------- |
-| Python (Pandas, NumPy)                | Data loading, preprocessing, and analysis   |
+| Python (Pandas)                       | Data loading, preprocessing, and analysis   |
 | Matplotlib / Seaborn                  | Data visualization and exploratory analysis |
-| SQL (PostgreSQL / MySQL / SQL Server) | Data querying and analytical insights       |
+| SQL (PostgreSQL)                      | Data querying and analytical insights       |
 | Power BI                              | Interactive dashboard creation              |
 | Jupyter Notebook                      | Data analysis environment                   |
 | Gamma                                 | Presentation generation                     |

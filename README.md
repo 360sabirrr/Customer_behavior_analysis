@@ -134,7 +134,7 @@ A professional presentation summarizing the project findings was created using *
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/data-analytics-project.git
+git clone https://github.com/360sabirrr/Customer_behavior_analysis.git
 ```
 
 ### 2. Install Required Libraries

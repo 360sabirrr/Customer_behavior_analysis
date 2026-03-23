@@ -33,7 +33,7 @@ The dataset is processed and analyzed using Python and SQL tools to uncover patt
 | SQL (PostgreSQL)                      | Data querying and analytical insights       |
 | Power BI                              | Interactive dashboard creation              |
 | Jupyter Notebook                      | Data analysis environment                   |
-| Gamma                                 | Presentation generation                     |
+| MS Powerpoint                         | Presentation                                |
 | GitHub                                | Project documentation and version control   |
 
 ---

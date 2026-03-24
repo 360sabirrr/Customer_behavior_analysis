@@ -179,6 +179,9 @@ data-analytics-project/
 ```
 
 ---
+## Dashboard
+<img width="1127" height="619" alt="Screenshot 2026-03-08 142917" src="https://github.com/user-attachments/assets/a88fe65a-45e9-47a9-928a-1ac531cdebdb" />
+
 
 ## Author
 

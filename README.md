@@ -188,6 +188,3 @@ data-analytics-project/
 **Sabir Mahamad Shaikh**
 Data Analyst | Python | SQL | Power BI
 
----
-
-If you want, I can also show you **how to make your GitHub README look like a *Top Data Analyst Portfolio Project*** (with badges, visuals, dashboard preview, and recruiter-friendly formatting).

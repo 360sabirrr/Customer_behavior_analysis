@@ -1,8 +1,7 @@
 # 📊 Data Analytics Project
 
 ## Overview
-
-This project demonstrates a complete **data analytics workflow**, starting from raw data processing to delivering business insights through interactive dashboards and reports. The project involves **data loading, data cleaning, exploratory data analysis (EDA), SQL-based querying, visualization, and presentation of insights**.
+ Project demonstrates a complete **data analytics workflow**, starting from raw data processing to delivering business insights through interactive dashboards and reports. The project involves **data loading, data cleaning, exploratory data analysis (EDA), SQL-based querying, visualization, and presentation of insights**.
 
 The objective of this project is to showcase practical **data analysis skills using Python, SQL, and Power BI** to extract meaningful insights from structured data and communicate results effectively.
 
